@@ -11,7 +11,7 @@
     <description>A tower defense game that I made back in 2014 using my custom game library</description>
 
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>1.7</java.version>
         <jar.name>Dark-Forest-Tower-Defense</jar.name>
         <app.entry>me.rayzr522.towerdefense.Game</app.entry>
     </properties>
