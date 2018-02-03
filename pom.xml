@@ -15,6 +15,13 @@
         <jar.name>Dark-Forest-Tower-Defense</jar.name>
         <app.entry>me.rayzr522.towerdefense.Game</app.entry>
     </properties>
+    
+    <repositories>
+        <repository>
+            <id>rayzr-repo</id>
+            <url>https://cdn.rawgit.com/Rayzr522/maven-repo/master/</url>
+        </repository>
+    </repositories>
 
     <dependencies>
         <dependency>

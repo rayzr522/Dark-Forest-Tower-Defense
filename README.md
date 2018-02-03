@@ -12,7 +12,7 @@ If you're interested in seeing other ancient projects of mine, you should check 
 
 The easiest way to install this is to simply grab the latest JAR file off of the [releases page](https://github.com/Rayzr522/Dark-Forest-Tower-Defense/releases). Once you have that, it's as simple as double-clicking it.
 
-If you want to compile from the source code, you'll need to locally install my 2014 game library [Stone Age Game Library](https://github.com/Rayzr522/SAGL). Once you've done that, you can compile *Dark Forest Tower Defense* like so:
+If you want to compile from the source code, just run the following commands:
 
 ```bash
 $ git clone https://github.com/Rayzr522/Dark-Forest-Tower-Defense.git
