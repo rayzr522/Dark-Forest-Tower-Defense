@@ -4,7 +4,7 @@
 
 ![Main Menu](res/main-menu.png)
 
-*Dark Forest Tower Defense* has no official level progression or waves system, but at the time I did manage to complete basic tower and monster interaction, as well as an extremely simplified level file format. While admittedly this is far from a completed project, I thought it might be interesting to publically release yet another piece of my history.
+_Dark Forest Tower Defense_ has no official level progression or waves system, but at the time I did manage to complete basic tower and monster interaction, as well as an extremely simplified level file format. While admittedly this is far from a completed project, I thought it might be interesting to publically release yet another piece of my history.
 
 If you're interested in seeing other ancient projects of mine, you should check out [Astra](https://github.com/Rayzr522/Astra) and [jPuzzle](https://github.com/Rayzr522/jPuzzle).
 
@@ -20,7 +20,3 @@ $ cd Dark-Forest-Tower-Defense
 $ mvn
 # Output will be located at target/Dark-Forest-Tower-Defense.jar
 ```
-
-## Join Me
-
-[![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
